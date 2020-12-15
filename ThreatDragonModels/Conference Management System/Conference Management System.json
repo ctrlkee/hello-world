@@ -4,6 +4,37 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Spoofing",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "Tampering",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      },
+      {
+        "title": "Repudiation",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 2
+      },
+      {
+        "title": "Information Disclosure",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 3
+      },
+      {
+        "title": "Denial of Service",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 4
+      },
+      {
+        "title": "Elevation of Priveleges",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 5
+      }
+    ]
   }
 }
